@@ -11,7 +11,7 @@ Download USB drivers for your phone, Motorola in this case: https://support.moto
 Make sure to take a backup of your entire device data.
 First root the phone, if you haven't already:
   1. Allow USB debugging and unlock OEM in the phone settings
-    1.1 Go to Settings > System > About phone > tap the build number 5 times untill developer options are unlocked
+  1.1 Go to Settings > System > About phone > tap the build number 5 times untill developer options are unlocked
     1.2 Go to Settings > System > Advanced > Developer options and check OEM unlocking and USB debugging
     1.3 (optionally) click Default USB configuration in the Developer options and set it to File Transfer. This will allow you to transfer files to your phone without having to change it every time you connect the phone to your computer.
 
