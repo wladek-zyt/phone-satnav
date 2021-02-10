@@ -30,7 +30,7 @@ Motorola's OEM unlocking is not that simple however, you'll have to follow the f
 8. Sign in using your Google account or Motorola ID. Scroll down the page and paste the copied string in the field. Then click on ‘Can my device be unlocked?’, after which a "REQUEST UNLOCK KEY" button will appear at the bottom of page.
 9. To get your unlock key, select the ‘I Agree’ option. Note: You will receive an email with your Unlock Key at the email address you used to log in there.
 10. Copy the 20-character key that Motorola sent you via email. Make sure your device is connected.
-11. Then type: fastboot oem unlock [UNLOCK KEY]. (Replace UNLOCK KEY with the key from the Motorola email).
+11. Then type: fastboot oem unlock [UNLOCK KEY]. (Replace [UNLOCK KEY] with the key from the Motorola email).
 12. Hit enter, it will ask you to repeat the command to confirm, let it run for a few seconds and after it's done, reboot your phone back into fastboot mode. You'll now see that OEM is unlocked.
 
 
